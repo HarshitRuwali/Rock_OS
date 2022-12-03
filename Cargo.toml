@@ -15,7 +15,7 @@ name = "stack_overflow"
 harness = false
 
 [dependencies]
-bootloader = "0.10.13"
+bootloader = "0.11.0"
 rlibc = "1.0.0"
 volatile = "0.4.5"
 spin = "0.9.4"
